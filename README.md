@@ -6,4 +6,4 @@
 Lab material for ARTI 402. Each folder contains the notebook and any data files for that week's lab.
  
 ---
-Student: **Rashed Ali Alkhathlan - 2240003321**
+**Student:** Rashed Ali Alkhathlan - 2240003321
